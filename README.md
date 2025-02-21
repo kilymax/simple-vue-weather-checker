@@ -1,4 +1,4 @@
-# Adaptive Positivus website layout 
+# Weather Checker Vue pet project 
 
 <a name="readme-top"></a>
 
@@ -48,7 +48,7 @@ Simple weather checker created using free OpenWeatherMap API.
 
 Ilya K - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 
-Project Link: [Positivus](https://github.com/kilymax/positivus)
+Project Link: [Positivus](https://github.com/kilymax/simple-vue-weather-checker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
